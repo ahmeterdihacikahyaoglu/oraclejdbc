@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        OgretmenRepo ogretmenRepo = new OgretmenRepo();
+        /*OgretmenRepo ogretmenRepo = new OgretmenRepo();*/
         /*ArrayList<Ogretmen> ogretmenler = ogretmenRepo.getAll();
         System.err.println(ogretmenler.toString());
         System.err.println(ogretmenRepo.getById(4));*/
@@ -41,7 +41,5 @@ public class Main {
         ArrayList<Ders> dersler = dersRepo.getAll();
         System.err.println(dersler.toString());
         System.err.println(dersRepo.getById(7));*/
-
-        System.err.println(ogretmenRepo.getAllLike("a"));
     }
 }
