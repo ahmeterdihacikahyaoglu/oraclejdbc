@@ -47,4 +47,7 @@ public class Main {
         System.err.println("Merhaba git intellij");
         System.err.println("Merhaba git intellij");
     }
+    public int topla(int a, int b) {
+        return a+b;
+    }
 }
