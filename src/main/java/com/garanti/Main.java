@@ -42,6 +42,6 @@ public class Main {
         System.err.println(dersler.toString());
         System.err.println(dersRepo.getById(7));*/
 
-        System.err.println("Merhaba git");
+        System.err.println("Merhaba git intellij");
     }
 }
