@@ -41,5 +41,7 @@ public class Main {
         ArrayList<Ders> dersler = dersRepo.getAll();
         System.err.println(dersler.toString());
         System.err.println(dersRepo.getById(7));*/
+
+        System.err.println("Merhaba git");
     }
 }
