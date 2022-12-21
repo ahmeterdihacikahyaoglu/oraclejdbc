@@ -50,4 +50,8 @@ public class Main {
     public int topla(int a, int b) {
         return a+b;
     }
+
+    public double bolme(int a, int b) {
+        return a/b;
+    }
 }
