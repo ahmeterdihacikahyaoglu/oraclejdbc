@@ -42,20 +42,6 @@ public class Main {
         System.err.println(dersler.toString());
         System.err.println(dersRepo.getById(7));*/
 
-        System.err.println("Merhaba git intellij");
-        System.err.println("Merhaba git intellij");
-        System.err.println("Merhaba git intellij");
-        System.err.println("Merhaba git intellij");
-    }
-    public int topla(int a, int b) {
-        return a+b;
     }
 
-    public double bolme(int a, int b) {
-        return a/b;
-    }
-
-    public long carpma(int a, int b) {
-        return a*b;
-    }
 }
