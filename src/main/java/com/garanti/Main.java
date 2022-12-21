@@ -54,4 +54,8 @@ public class Main {
     public double bolme(int a, int b) {
         return a/b;
     }
+
+    public long carpma(int a, int b) {
+        return a*b;
+    }
 }
