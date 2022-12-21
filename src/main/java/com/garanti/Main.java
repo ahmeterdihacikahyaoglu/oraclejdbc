@@ -43,5 +43,6 @@ public class Main {
         System.err.println(dersRepo.getById(7));*/
 
         System.err.println("Merhaba git intellij");
+        System.err.println("Merhaba git intellij");
     }
 }
